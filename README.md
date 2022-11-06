@@ -41,8 +41,6 @@ we use super-duper-dollop project for GitHub &amp; Git practice
 31) git reset --> The term reset stands for undoing changes. The git reset command is used to reset the changes.
 
 
-=======================
-======================
 
 
 
