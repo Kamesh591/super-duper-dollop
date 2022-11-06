@@ -96,4 +96,14 @@ The basic Git workflow goes something like this:
         3.You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
         
  
+ Setting your username & email in Git
+ ![image](https://user-images.githubusercontent.com/117242284/200162799-59bb03b3-601f-4ff5-9783-c7a5cc083ba5.png)
+![image](https://user-images.githubusercontent.com/117242284/200162831-9e51bbb6-b121-4456-8496-d6742489e0db.png)
+
+
+**Initializing a Repository in an Existing Directory**
+        If you have a project directory that is currently not under version control and you want to start controlling it with Git, you first need to go to that project’s directory and then apply the command **git init** from command prompt.
+        ![image](https://user-images.githubusercontent.com/117242284/200162957-d352aa6d-9020-46e2-8c67-110ca5166cb4.png)
+
+        
 
