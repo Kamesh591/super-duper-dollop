@@ -55,8 +55,8 @@ we use super-duper-dollop project for GitHub &amp; Git practice
 creating new unique branch
 switch to new branch
 
-==================
-===================
+We can create a new file in command prompt with echo command
+**syntax: echo > filename.extension**
 
 
 
