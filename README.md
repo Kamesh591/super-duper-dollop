@@ -109,7 +109,9 @@ The basic Git workflow goes something like this:
         If you want to get a copy of an existing Github/Gitlab repository then we should follow the below process
         *Open command prompt and copy HTTP version of github URL and then apply git clone https://github.com/Kamesh591/super-duper-dollop.git 
         
-        ![image](https://user-images.githubusercontent.com/117242284/200163370-2d5e25e8-698c-4222-b112-2ae6fe36d466.png)
+        ![image](https://user-images.githubusercontent.com/117242284/200163448-8fe29ec3-6168-4979-93d2-b508d63dc180.png)
+
+       
 
 
         
