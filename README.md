@@ -82,6 +82,7 @@ This leads us to the three main sections of a Git project: the working tree, the
 
 
 **The working tree** is a single checkout of one version of the project.
+
 **The staging area** is a file, generally contained in your Git directory, that stores information about what will go into your next commit. Its technical name in Git parlance is the “index”, but the phrase “staging area” works just as well.
 
 **The Git directory** is where Git stores the metadata and object database for your project. This is the most important part of Git, and it is what is copied when you clone a repository from another computer.
