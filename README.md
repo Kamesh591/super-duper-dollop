@@ -105,5 +105,9 @@ The basic Git workflow goes something like this:
         If you have a project directory that is currently not under version control and you want to start controlling it with Git, you first need to go to that project’s directory and then apply the command **git init** from command prompt.
         ![image](https://user-images.githubusercontent.com/117242284/200162957-d352aa6d-9020-46e2-8c67-110ca5166cb4.png)
 
+**Clonining a remote repository**
+        If you want to get a copy of an existing Github/Gitlab repository then we should follow the below process
+        
+
         
 
