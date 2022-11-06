@@ -29,3 +29,5 @@ we use super-duper-dollop project for GitHub &amp; Git practice
 2) Why are brnaches are required
 3) How branches works
 4) Pracitce around branches
+creating new unique branch
+switch to new branch
