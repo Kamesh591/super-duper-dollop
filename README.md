@@ -36,6 +36,9 @@ we use super-duper-dollop project for GitHub &amp; Git practice
         git diff <commit_hash> <commit_hash> <file_name>
 
 28) git reset
+29) git stash --> Stash is to store the uncompleted work in a particular area which you will use in future
+30) git revert -->  In Git, the term revert is used to revert some changes. The git revert command is used to apply revert operation. It is an undo type command. However, it is not a traditional undo alternative. It does not delete any data in this process; instead, it will create a new change with the opposite effect and thereby undo the specified commit
+31) git reset --> The term reset stands for undoing changes. The git reset command is used to reset the changes.
 
 
 
