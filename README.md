@@ -114,5 +114,9 @@ The basic Git workflow goes something like this:
 How to add a remote repostiory to our local repo
         ** git remote add shortname repoURL **
         
-        
+Renaming a Remote Repositry
+ # git remote rename old-shortname new-shortname
+ 
+Removing a Remote repository
+# git remote remove shortname
 
