@@ -33,7 +33,7 @@ we use super-duper-dollop project for GitHub &amp; Git practice
         git diff <file_name>
         git diff --staged <file_name> or  git diff --cached <file_name>,
         git diff <branch_name1> <branch_name2> <file_name>
-        git diff <commit_hash> <commit_hash> <file_name>
+        git diff <commit_hash> <commit_hash> 
 
 28) git reset
 29) git stash --> Stash is to store the uncompleted work in a particular area which you will use in future
@@ -54,3 +54,6 @@ we use super-duper-dollop project for GitHub &amp; Git practice
 4) Pracitce around branches
 creating new unique branch
 switch to new branch
+
+==================
+===================
