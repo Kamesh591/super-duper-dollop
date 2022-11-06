@@ -61,6 +61,7 @@ switch to new branch
 
 
 * What is Version control System?
+
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later
 
 * What is Git ?
@@ -76,3 +77,6 @@ Staged means that you have marked a modified file in its current version to go i
 Committed means that the data is safely stored in your local database.
 
 This leads us to the three main sections of a Git project: the working tree, the staging area, and the Git directory.
+
+![image](https://user-images.githubusercontent.com/117242284/200162445-669e0e43-4a6c-40b0-8e78-9d6217d0aaa4.png)
+
