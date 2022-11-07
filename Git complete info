@@ -1,0 +1,18 @@
+What is Version control System?
+Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later
+
+What is Git ?
+Git is a linear version control system which can be used to maintain & track the history of your files over a period of time.
+
+The Three States of Git
+Pay attention now — here is the main thing to remember about Git if you want the rest of your learning process to go smoothly. Git has three main states that your files can reside in: modified, staged, and committed:
+
+Modified means that you have changed the file but have not committed it to your database yet.
+
+Staged means that you have marked a modified file in its current version to go into your next commit snapshot.
+
+Committed means that the data is safely stored in your local database.
+
+This leads us to the three main sections of a Git project: the working tree, the staging area, and the Git directory.
+
+
