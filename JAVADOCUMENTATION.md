@@ -14,7 +14,7 @@
 <details>
   <summary> Java Basics </summary>
   
-    - Java Installation
+    -Java Installation
   
     - Java JDK, JRE and JVM
   
