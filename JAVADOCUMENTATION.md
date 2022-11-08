@@ -1,11 +1,10 @@
 
 <details>
-
- <summary> # Java Introduction </summary>
-  ## What is Java Programming Language
-  ## History of Java
-  ## Features of Java
-  ## First Java Programm
+<summary> Java Introduction </summary>
+  - What is Java Programming Language
+  - History of Java
+  - Features of Java
+  - First Java Programm
 </details> 
  ## Java Basics
    #### Java Installation
