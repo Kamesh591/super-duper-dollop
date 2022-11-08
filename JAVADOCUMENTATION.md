@@ -10,23 +10,42 @@
   
   - First Java Programm
 </details> 
- ## Java Basics
-   #### Java Installation
-   #### Java JDK, JRE and JVM
-   #### Java Naming Conventions
-   #### Java Classes and Objects
-   #### Java main() Method
-   #### Java Keywords
-   #### Java Operators
-   #### Java Data Types
-   #### Java Variables
-   #### Java Comments
-   #### Java Command Line Args
-   #### Java Statements
-   #### Java Flow Control Statements
-   #### Java Block Statement
-   #### Java System Properties
+
+<details>
+  <summary> Java Basics </summary>
+  
+    - Java Installation
+  
+    - Java JDK, JRE and JVM
+  
+    - Java Naming Conventions
+  
+    - Java Classes and Objects
+  
+    - Java main() Method
+  
+    - Java Keywords
+  
+    - Java Operators
+  
+    - Java Data Types
+  
+    - Java Variables
+  
+    - Java Comments
+  
+    - Java Command Line Args
+  
+    - Java Conditional Statements
+  
+    - Java Flow Control Statements
+  
+    - Java Block Statement
+  
+    - Java System Properties
     
+ </details>
+ 
   ## Java OOPS
    #### OOP – Introduction
    #### OOP – Access Modifiers
